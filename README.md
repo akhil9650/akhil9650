@@ -14,6 +14,7 @@
       Deployment-ready and usable Machine Learning services
 - 💞️ I’m looking to collaborate on ...
       Android project that is a brainchild of mine (all I can say)
+      Anything that matches the points in "I'm interested in"
 - 📫 How to reach me ...
       me.akhil24@gmail.com
 
