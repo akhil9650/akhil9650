@@ -12,8 +12,8 @@
       Authentication Policies and Implementations (SAML, SSO, JWT Token Authentication & Authorization, OpenID)
       SAAS Development (Infrastructure)
       Deployment-ready and usable Machine Learning services
+      Kubernetes deployments with Ingress and Autoscaling
 - 💞️ I’m looking to collaborate on ...
-      Android project that is a brainchild of mine (all I can say)
       Anything that matches the points in "I'm interested in"
 - 📫 How to reach me ...
       me.akhil24@gmail.com
