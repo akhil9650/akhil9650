@@ -58,7 +58,7 @@
   </tr>
    <tr>
     <td>Deep Learning</td>
-    <td>CNN, Autoencoder and GAN model training on </td>
+    <td>CNN, Autoencoder and GAN models</td>
     <td><a href="https://github.com/akhil9650/Deep-Learning" target="_blank">Link</td>
   </tr>
    <tr>
