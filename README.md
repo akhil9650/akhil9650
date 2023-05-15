@@ -81,12 +81,11 @@ Connect with me
    <tr>
     <td>Kubernetes Deployments</td>
     <td>Containerizing spring-based microservices with Database and deploying on AWS EKS Cluster</td>
-    <td><a href="#" target="_blank">Link</td>
+   
   </tr>
    <tr>
     <td>Tableau Visualizations</td>
     <td>Creating insightful visualizations with Tableau on real-world data</td>
-    <td><a href="#" target="_blank">Link</td>
   </tr>      
 </table>
 
