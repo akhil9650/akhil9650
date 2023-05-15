@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Akhil Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Akhil Kumar </h1>
 <br>
 
-## :sassy_man:  About me
-- :school: Graduated as Bachelor of Technology in Electrical & Electronics Engineering from National Institute Of Technology Warangal
-- :technologist: Believe every `Problem` has a `Software` to solve it
-- :computer: I’m currently a `Project Engineer` at `Wipro`
-- :nerd_face: Always `learning new tehnologies`
+## About me
+- Graduated as Bachelor of Technology in Electrical & Electronics Engineering from National Institute Of Technology Warangal
+-  Believe every `Problem` has a `Software` to solve it
+-  I’m currently a `Project Engineer` at `Wipro`
+-  Always `learning new tehnologies`
 
 <br>
 Connect with me
@@ -17,7 +17,7 @@ Connect with me
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### Programming languages
 
 <p align="center"> 
   &emsp;
@@ -38,7 +38,7 @@ Connect with me
   </a>
 </p>
 
-### 👉 Machine Learning 
+### Machine Learning 
 <table>
   <tr>
     <th>Field</th>
@@ -67,7 +67,7 @@ Connect with me
   </tr>
    </table>
       
-### 👉 Other projects  
+### Other projects  
 <table>
   <tr>
     <th>Field</th>
@@ -91,13 +91,14 @@ Connect with me
   </tr>      
 </table>
 
- ### 👉 Software & Tools
+ ### Software & Tools
  
 <table>
   <tr>
     <th>Jupyter</th>
     <th>Spyder</th>
     <th>Colab</th>
+    <th>Unity3D</th>	  
     <th>AWS EC2</th>
     <th>Tableau</th>  
     <th>Docker</th>
@@ -105,7 +106,7 @@ Connect with me
   </tr>
 </table>
 
- ### 👉 IDEs
+ ### IDEs
  
 <p align="center">
   &emsp;
@@ -119,7 +120,7 @@ Connect with me
       
 </p>
 
- ### 👉 Operating Systems
+ ### Operating Systems
  
 <p align="center">
   &emsp;
