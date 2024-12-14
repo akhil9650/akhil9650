@@ -4,8 +4,9 @@
 ## About me
 - Graduated as Bachelor of Technology in Electrical & Electronics Engineering from National Institute Of Technology Warangal
 -  Believe every `Problem` has a `Software` to solve it
--  I’m currently a `Project Engineer` at `Wipro`
+-  I’m currently a `Software Engineer II` at `F5 Networks`
 -  Always `learning new tehnologies`
+-  Two fields I really like: Cybersecurity and AI
 
 <br>
 Connect with me
